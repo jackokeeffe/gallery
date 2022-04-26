@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+body {
+    text-align: center;
+}
+
+#images img {
+    padding: 1%;
+    width: 20%;
+}
+
+#landscape {
+    width: 45% !important;
+}
